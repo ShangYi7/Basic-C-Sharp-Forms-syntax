@@ -1,0 +1,10 @@
+R:\code\program\C#\FiveM Launcher 1\obj\Debug\FiveM Launcher 1.csproj.AssemblyReference.cache
+R:\code\program\C#\FiveM Launcher 1\obj\Debug\FiveM_Launcher_1.Form1.resources
+R:\code\program\C#\FiveM Launcher 1\obj\Debug\FiveM Launcher 1.csproj.GenerateResource.cache
+R:\code\program\C#\FiveM Launcher 1\bin\Debug\FiveM Launcher 1.exe.config
+R:\code\program\C#\FiveM Launcher 1\bin\Debug\FiveM Launcher 1.exe
+R:\code\program\C#\FiveM Launcher 1\bin\Debug\FiveM Launcher 1.pdb
+R:\code\program\C#\FiveM Launcher 1\obj\Debug\FiveM_Launcher_1.Properties.Resources.resources
+R:\code\program\C#\FiveM Launcher 1\obj\Debug\FiveM Launcher 1.csproj.CoreCompileInputs.cache
+R:\code\program\C#\FiveM Launcher 1\obj\Debug\FiveM Launcher 1.exe
+R:\code\program\C#\FiveM Launcher 1\obj\Debug\FiveM Launcher 1.pdb

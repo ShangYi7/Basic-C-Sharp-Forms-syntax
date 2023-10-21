@@ -1,0 +1,33 @@
+C:\cs2022\ch01\0921\bin\Debug\net6.0-windows\0921.exe
+C:\cs2022\ch01\0921\bin\Debug\net6.0-windows\0921.deps.json
+C:\cs2022\ch01\0921\bin\Debug\net6.0-windows\0921.runtimeconfig.json
+C:\cs2022\ch01\0921\bin\Debug\net6.0-windows\0921.dll
+C:\cs2022\ch01\0921\bin\Debug\net6.0-windows\0921.pdb
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\0921.csproj.AssemblyReference.cache
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\_0921.Form1.resources
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\0921.csproj.GenerateResource.cache
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\0921.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\0921.AssemblyInfoInputs.cache
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\0921.AssemblyInfo.cs
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\0921.csproj.CoreCompileInputs.cache
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\0921.dll
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\refint\0921.dll
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\0921.pdb
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\0921.genruntimeconfig.cache
+C:\cs2022\ch01\0921\obj\Debug\net6.0-windows\ref\0921.dll
+R:\code\program\C#\0921 計算價錢\bin\Debug\net6.0-windows\0921.exe
+R:\code\program\C#\0921 計算價錢\bin\Debug\net6.0-windows\0921.deps.json
+R:\code\program\C#\0921 計算價錢\bin\Debug\net6.0-windows\0921.runtimeconfig.json
+R:\code\program\C#\0921 計算價錢\bin\Debug\net6.0-windows\0921.dll
+R:\code\program\C#\0921 計算價錢\bin\Debug\net6.0-windows\0921.pdb
+R:\code\program\C#\0921 計算價錢\obj\Debug\net6.0-windows\_0921.Form1.resources
+R:\code\program\C#\0921 計算價錢\obj\Debug\net6.0-windows\0921.csproj.GenerateResource.cache
+R:\code\program\C#\0921 計算價錢\obj\Debug\net6.0-windows\0921.GeneratedMSBuildEditorConfig.editorconfig
+R:\code\program\C#\0921 計算價錢\obj\Debug\net6.0-windows\0921.AssemblyInfoInputs.cache
+R:\code\program\C#\0921 計算價錢\obj\Debug\net6.0-windows\0921.AssemblyInfo.cs
+R:\code\program\C#\0921 計算價錢\obj\Debug\net6.0-windows\0921.csproj.CoreCompileInputs.cache
+R:\code\program\C#\0921 計算價錢\obj\Debug\net6.0-windows\0921.dll
+R:\code\program\C#\0921 計算價錢\obj\Debug\net6.0-windows\refint\0921.dll
+R:\code\program\C#\0921 計算價錢\obj\Debug\net6.0-windows\0921.pdb
+R:\code\program\C#\0921 計算價錢\obj\Debug\net6.0-windows\0921.genruntimeconfig.cache
+R:\code\program\C#\0921 計算價錢\obj\Debug\net6.0-windows\ref\0921.dll

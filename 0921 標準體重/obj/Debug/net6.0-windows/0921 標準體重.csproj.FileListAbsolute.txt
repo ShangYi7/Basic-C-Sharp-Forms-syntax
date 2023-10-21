@@ -1,0 +1,33 @@
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.csproj.AssemblyReference.cache
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\_0921_標準體重.Form1.resources
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.csproj.GenerateResource.cache
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.AssemblyInfoInputs.cache
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.AssemblyInfo.cs
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.csproj.CoreCompileInputs.cache
+C:\cs2022\ch01\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.exe
+C:\cs2022\ch01\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.deps.json
+C:\cs2022\ch01\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.runtimeconfig.json
+C:\cs2022\ch01\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.dll
+C:\cs2022\ch01\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.pdb
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.dll
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\refint\0921 標準體重.dll
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.pdb
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.genruntimeconfig.cache
+C:\cs2022\ch01\0921 標準體重\obj\Debug\net6.0-windows\ref\0921 標準體重.dll
+R:\code\program\C#\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.exe
+R:\code\program\C#\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.deps.json
+R:\code\program\C#\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.runtimeconfig.json
+R:\code\program\C#\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.dll
+R:\code\program\C#\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.pdb
+R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\_0921_標準體重.Form1.resources
+R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.csproj.GenerateResource.cache
+R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.GeneratedMSBuildEditorConfig.editorconfig
+R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.AssemblyInfoInputs.cache
+R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.AssemblyInfo.cs
+R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.csproj.CoreCompileInputs.cache
+R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.dll
+R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\refint\0921 標準體重.dll
+R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.pdb
+R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.genruntimeconfig.cache
+R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\ref\0921 標準體重.dll

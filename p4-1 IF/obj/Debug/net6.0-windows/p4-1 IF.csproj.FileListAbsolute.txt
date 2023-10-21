@@ -1,0 +1,17 @@
+C:\cs2022\ch01\p4-1 IF\bin\Debug\net6.0-windows\p4-1 IF.exe
+C:\cs2022\ch01\p4-1 IF\bin\Debug\net6.0-windows\p4-1 IF.deps.json
+C:\cs2022\ch01\p4-1 IF\bin\Debug\net6.0-windows\p4-1 IF.runtimeconfig.json
+C:\cs2022\ch01\p4-1 IF\bin\Debug\net6.0-windows\p4-1 IF.dll
+C:\cs2022\ch01\p4-1 IF\bin\Debug\net6.0-windows\p4-1 IF.pdb
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\p4-1 IF.csproj.AssemblyReference.cache
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\p4_1_IF.Form1.resources
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\p4-1 IF.csproj.GenerateResource.cache
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\p4-1 IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\p4-1 IF.AssemblyInfoInputs.cache
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\p4-1 IF.AssemblyInfo.cs
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\p4-1 IF.csproj.CoreCompileInputs.cache
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\p4-1 IF.dll
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\refint\p4-1 IF.dll
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\p4-1 IF.pdb
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\p4-1 IF.genruntimeconfig.cache
+C:\cs2022\ch01\p4-1 IF\obj\Debug\net6.0-windows\ref\p4-1 IF.dll
