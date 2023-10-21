@@ -10,14 +10,14 @@ namespace p4_11_switch
         private void OK_button_Click(object sender, EventArgs e)
         {
             float score;
-            if (!float.TryParse(textBox1.Text, out score))
+            if (!float.TryParse(textBox1.Text, out score)) // 判斷 textBox1.Text 是否有正確轉換,有為True,但用了 !所以輸出 false,不會執行以下程式/Determine whether textBox1.Text has been converted correctly and output True, but "!" is used, so it outputs false and the following program will not be executed.
             {
                 label2.Text = ("請輸入有效數值");
                 return;
             }
-            switch (score)
+            switch (score) // (輸入變數做比較)/Enter variables for comparison
             {
-                case float n when (n <= 100 && n >= 90):
+                case float n when (n <= 100 && n >= 90): 
                     label2.Text = ("甲");
                     break;
 

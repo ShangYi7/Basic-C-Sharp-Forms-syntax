@@ -6,7 +6,7 @@ namespace _3_27movie
         {
             InitializeComponent();
             // p3- 30
-            string Cola_how_much = Microsoft.VisualBasic.Interaction.InputBox("輸入可樂金額:", "可樂金額", "25"); // "提示" "標題" "預設值"
+            string Cola_how_much = Microsoft.VisualBasic.Interaction.InputBox("輸入可樂金額:", "可樂金額", "25"); // ("提示" "標題" "預設值")/("Prompt" "Title" "Default")
             string SARS_how_much = Microsoft.VisualBasic.Interaction.InputBox("輸入沙士金額:", "沙士金額", "25");
             textBox1.Text = SARS_how_much;
             textBox2.Text = Cola_how_much;
@@ -14,10 +14,10 @@ namespace _3_27movie
 
         private void textBox3_TextChanged(object sender, EventArgs e) //計算氣水多少錢
         {
-            try
+            try 
             {
                 int sum3;
-                sum3 = Convert.ToInt32(textBox3.Text) * Convert.ToInt32(textBox1.Text);
+                sum3 = Convert.ToInt32(textBox3.Text) * Convert.ToInt32(textBox1.Text); // textBox3, textBox1 中的文字轉換成Int32/Convert the text in textBox3, textBox1 to Int32
                 label9_SARS_Yuan.Text = Convert.ToString(sum3);
             }
             catch
@@ -46,16 +46,17 @@ namespace _3_27movie
         {
             DialogResult dr; //p3-30
             dr = MessageBox.Show("MessageBox.Show 測試,值輸出在 output 中", "MessageBox.Show", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Asterisk);
-            //                   "提示"   "標題"  "需要那些按鈕"                "Icon 圖片"   
+            //                   "提示"   "標題"  "需要那些按鈕"                "Icon 圖片"
+            //                   "Prompt" "Title" "What buttons are needed" "Icon picture"
             if (dr == DialogResult.Yes) // dr == DialogResult.Yes 時觸發
             {
                 output.Text = "6666666";
             }
-            else if (dr == DialogResult.No) // 判斷句中 可以有很多else if
+            else if (dr == DialogResult.No) // 判斷句中 可以有很多else if/There can be many else ifs in a judgment sentence
             {
                 output.Text = "77777777";
             }
-            else // dr == DialogResult.Cancel 時觸發
+            else // dr == DialogResult.Cancel 時觸發/Triggered when dr == DialogResult.Cancel
             {
                 output.Text = "22222";
             }
