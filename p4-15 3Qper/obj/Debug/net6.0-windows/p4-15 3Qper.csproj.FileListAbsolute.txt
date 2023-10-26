@@ -1,0 +1,17 @@
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\p4-15 3Qper.csproj.AssemblyReference.cache
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\p4_15_3Qper.Form1.resources
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\p4-15 3Qper.csproj.GenerateResource.cache
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\p4-15 3Qper.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\p4-15 3Qper.AssemblyInfoInputs.cache
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\p4-15 3Qper.AssemblyInfo.cs
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\p4-15 3Qper.csproj.CoreCompileInputs.cache
+C:\cs2022\ch01\p4-15 3Qper\bin\Debug\net6.0-windows\p4-15 3Qper.exe
+C:\cs2022\ch01\p4-15 3Qper\bin\Debug\net6.0-windows\p4-15 3Qper.deps.json
+C:\cs2022\ch01\p4-15 3Qper\bin\Debug\net6.0-windows\p4-15 3Qper.runtimeconfig.json
+C:\cs2022\ch01\p4-15 3Qper\bin\Debug\net6.0-windows\p4-15 3Qper.dll
+C:\cs2022\ch01\p4-15 3Qper\bin\Debug\net6.0-windows\p4-15 3Qper.pdb
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\p4-15 3Qper.dll
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\refint\p4-15 3Qper.dll
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\p4-15 3Qper.pdb
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\p4-15 3Qper.genruntimeconfig.cache
+C:\cs2022\ch01\p4-15 3Qper\obj\Debug\net6.0-windows\ref\p4-15 3Qper.dll

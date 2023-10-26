@@ -1,0 +1,33 @@
+C:\cs2022\ch01\p4-19\bin\Debug\net6.0-windows\p4-19.exe
+C:\cs2022\ch01\p4-19\bin\Debug\net6.0-windows\p4-19.deps.json
+C:\cs2022\ch01\p4-19\bin\Debug\net6.0-windows\p4-19.runtimeconfig.json
+C:\cs2022\ch01\p4-19\bin\Debug\net6.0-windows\p4-19.dll
+C:\cs2022\ch01\p4-19\bin\Debug\net6.0-windows\p4-19.pdb
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\p4-19.csproj.AssemblyReference.cache
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\p4_19.Form1.resources
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\p4-19.csproj.GenerateResource.cache
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\p4-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\p4-19.AssemblyInfoInputs.cache
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\p4-19.AssemblyInfo.cs
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\p4-19.csproj.CoreCompileInputs.cache
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\p4-19.dll
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\refint\p4-19.dll
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\p4-19.pdb
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\p4-19.genruntimeconfig.cache
+C:\cs2022\ch01\p4-19\obj\Debug\net6.0-windows\ref\p4-19.dll
+R:\code\Program\C# Forms\p4-19\bin\Debug\net6.0-windows\p4-19.exe
+R:\code\Program\C# Forms\p4-19\bin\Debug\net6.0-windows\p4-19.deps.json
+R:\code\Program\C# Forms\p4-19\bin\Debug\net6.0-windows\p4-19.runtimeconfig.json
+R:\code\Program\C# Forms\p4-19\bin\Debug\net6.0-windows\p4-19.dll
+R:\code\Program\C# Forms\p4-19\bin\Debug\net6.0-windows\p4-19.pdb
+R:\code\Program\C# Forms\p4-19\obj\Debug\net6.0-windows\p4_19.Form1.resources
+R:\code\Program\C# Forms\p4-19\obj\Debug\net6.0-windows\p4-19.csproj.GenerateResource.cache
+R:\code\Program\C# Forms\p4-19\obj\Debug\net6.0-windows\p4-19.GeneratedMSBuildEditorConfig.editorconfig
+R:\code\Program\C# Forms\p4-19\obj\Debug\net6.0-windows\p4-19.AssemblyInfoInputs.cache
+R:\code\Program\C# Forms\p4-19\obj\Debug\net6.0-windows\p4-19.AssemblyInfo.cs
+R:\code\Program\C# Forms\p4-19\obj\Debug\net6.0-windows\p4-19.csproj.CoreCompileInputs.cache
+R:\code\Program\C# Forms\p4-19\obj\Debug\net6.0-windows\p4-19.dll
+R:\code\Program\C# Forms\p4-19\obj\Debug\net6.0-windows\refint\p4-19.dll
+R:\code\Program\C# Forms\p4-19\obj\Debug\net6.0-windows\p4-19.pdb
+R:\code\Program\C# Forms\p4-19\obj\Debug\net6.0-windows\p4-19.genruntimeconfig.cache
+R:\code\Program\C# Forms\p4-19\obj\Debug\net6.0-windows\ref\p4-19.dll
