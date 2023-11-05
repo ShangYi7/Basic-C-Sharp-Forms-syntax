@@ -1,0 +1,17 @@
+C:\cs2022\ch01\P4-25 CheckBox\bin\Debug\net6.0-windows\P4-25 CheckBox.exe
+C:\cs2022\ch01\P4-25 CheckBox\bin\Debug\net6.0-windows\P4-25 CheckBox.deps.json
+C:\cs2022\ch01\P4-25 CheckBox\bin\Debug\net6.0-windows\P4-25 CheckBox.runtimeconfig.json
+C:\cs2022\ch01\P4-25 CheckBox\bin\Debug\net6.0-windows\P4-25 CheckBox.dll
+C:\cs2022\ch01\P4-25 CheckBox\bin\Debug\net6.0-windows\P4-25 CheckBox.pdb
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\P4-25 CheckBox.csproj.AssemblyReference.cache
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\P4_25_CheckBox.Form1.resources
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\P4-25 CheckBox.csproj.GenerateResource.cache
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\P4-25 CheckBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\P4-25 CheckBox.AssemblyInfoInputs.cache
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\P4-25 CheckBox.AssemblyInfo.cs
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\P4-25 CheckBox.csproj.CoreCompileInputs.cache
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\P4-25 CheckBox.dll
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\refint\P4-25 CheckBox.dll
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\P4-25 CheckBox.pdb
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\P4-25 CheckBox.genruntimeconfig.cache
+C:\cs2022\ch01\P4-25 CheckBox\obj\Debug\net6.0-windows\ref\P4-25 CheckBox.dll

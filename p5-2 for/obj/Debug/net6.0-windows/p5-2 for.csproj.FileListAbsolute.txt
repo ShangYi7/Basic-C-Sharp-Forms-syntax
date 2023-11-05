@@ -1,0 +1,33 @@
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.csproj.AssemblyReference.cache
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\p5_2_for.Form1.resources
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.csproj.GenerateResource.cache
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.AssemblyInfoInputs.cache
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.AssemblyInfo.cs
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.csproj.CoreCompileInputs.cache
+C:\cs2022\ch01\p5-2 for\bin\Debug\net6.0-windows\p5-2 for.exe
+C:\cs2022\ch01\p5-2 for\bin\Debug\net6.0-windows\p5-2 for.deps.json
+C:\cs2022\ch01\p5-2 for\bin\Debug\net6.0-windows\p5-2 for.runtimeconfig.json
+C:\cs2022\ch01\p5-2 for\bin\Debug\net6.0-windows\p5-2 for.dll
+C:\cs2022\ch01\p5-2 for\bin\Debug\net6.0-windows\p5-2 for.pdb
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.dll
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\refint\p5-2 for.dll
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.pdb
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.genruntimeconfig.cache
+C:\cs2022\ch01\p5-2 for\obj\Debug\net6.0-windows\ref\p5-2 for.dll
+R:\code\Program\C# Forms\p5-2 for\bin\Debug\net6.0-windows\p5-2 for.exe
+R:\code\Program\C# Forms\p5-2 for\bin\Debug\net6.0-windows\p5-2 for.deps.json
+R:\code\Program\C# Forms\p5-2 for\bin\Debug\net6.0-windows\p5-2 for.runtimeconfig.json
+R:\code\Program\C# Forms\p5-2 for\bin\Debug\net6.0-windows\p5-2 for.dll
+R:\code\Program\C# Forms\p5-2 for\bin\Debug\net6.0-windows\p5-2 for.pdb
+R:\code\Program\C# Forms\p5-2 for\obj\Debug\net6.0-windows\p5_2_for.Form1.resources
+R:\code\Program\C# Forms\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.csproj.GenerateResource.cache
+R:\code\Program\C# Forms\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.GeneratedMSBuildEditorConfig.editorconfig
+R:\code\Program\C# Forms\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.AssemblyInfoInputs.cache
+R:\code\Program\C# Forms\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.AssemblyInfo.cs
+R:\code\Program\C# Forms\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.csproj.CoreCompileInputs.cache
+R:\code\Program\C# Forms\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.dll
+R:\code\Program\C# Forms\p5-2 for\obj\Debug\net6.0-windows\refint\p5-2 for.dll
+R:\code\Program\C# Forms\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.pdb
+R:\code\Program\C# Forms\p5-2 for\obj\Debug\net6.0-windows\p5-2 for.genruntimeconfig.cache
+R:\code\Program\C# Forms\p5-2 for\obj\Debug\net6.0-windows\ref\p5-2 for.dll
