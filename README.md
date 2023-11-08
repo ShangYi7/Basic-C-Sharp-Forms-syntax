@@ -1,5 +1,6 @@
 # Basic-C-Sharp-Forms-syntax
-![Static Badge](https://img.shields.io/badge/C%20Sharp%20Forms-C%20Sharp%20Forms?style=flat-square&logo=C%20Sharp&logoColor=for-the-badge&labelColor=FFFFF)
+![Static Badge](https://img.shields.io/badge/C%20Sharp%20Forms-C%20Sharp%20Forms?style=flat-square&logo=C%20Sharp&logoColor=for-the-badge&labelColor=FFFFF) ![Static Badge](https://img.shields.io/badge/NET%206-NET%206?style=flat-square&logo=.NET&logoColor=FFFFFF)
+
 
 Basic C# Forms syntax exercises 
 
