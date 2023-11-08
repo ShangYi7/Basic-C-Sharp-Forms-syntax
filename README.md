@@ -1,6 +1,7 @@
 # Basic-C-Sharp-Forms-syntax
-Basic C# Forms syntax exercises https://img.shields.io/badge/C%20Sharp%20Forms-C%20Sharp%20Forms?style=flat-square&logo=C%20Sharp&logoColor=for-the-badge&labelColor=FFFFF
+![Static Badge](https://img.shields.io/badge/C%20Sharp%20Forms-C%20Sharp%20Forms?style=flat-square&logo=C%20Sharp&logoColor=for-the-badge&labelColor=FFFFF)
 
+Basic C# Forms syntax exercises 
 
 Using [Visual C# 2022 Basic Compulsory Course](https://www.books.com.tw/products/0010929682?loc=P_0003_005) Book Production
 
