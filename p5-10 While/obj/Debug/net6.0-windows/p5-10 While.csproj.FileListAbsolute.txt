@@ -1,0 +1,17 @@
+F:\code\Program\C# Forms\p5-10 While\bin\Debug\net6.0-windows\p5-10 While.exe
+F:\code\Program\C# Forms\p5-10 While\bin\Debug\net6.0-windows\p5-10 While.deps.json
+F:\code\Program\C# Forms\p5-10 While\bin\Debug\net6.0-windows\p5-10 While.runtimeconfig.json
+F:\code\Program\C# Forms\p5-10 While\bin\Debug\net6.0-windows\p5-10 While.dll
+F:\code\Program\C# Forms\p5-10 While\bin\Debug\net6.0-windows\p5-10 While.pdb
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\p5-10 While.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\p5_10_While.Form1.resources
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\p5-10 While.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\p5-10 While.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\p5-10 While.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\p5-10 While.AssemblyInfo.cs
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\p5-10 While.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\p5-10 While.dll
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\refint\p5-10 While.dll
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\p5-10 While.pdb
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\p5-10 While.genruntimeconfig.cache
+F:\code\Program\C# Forms\p5-10 While\obj\Debug\net6.0-windows\ref\p5-10 While.dll

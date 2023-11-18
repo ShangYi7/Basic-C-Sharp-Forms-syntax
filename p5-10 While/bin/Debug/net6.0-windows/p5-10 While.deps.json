@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p5-10 While/1.0.0": {
+        "runtime": {
+          "p5-10 While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p5-10 While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

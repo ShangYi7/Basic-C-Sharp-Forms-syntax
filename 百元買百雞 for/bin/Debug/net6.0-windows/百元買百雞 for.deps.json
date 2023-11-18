@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "百元買百雞 for/1.0.0": {
+        "runtime": {
+          "百元買百雞 for.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "百元買百雞 for/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
