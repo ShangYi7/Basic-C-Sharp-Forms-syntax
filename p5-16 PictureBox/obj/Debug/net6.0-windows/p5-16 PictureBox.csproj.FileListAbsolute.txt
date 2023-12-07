@@ -1,0 +1,18 @@
+F:\code\Program\C# Forms\p5-16 PictureBox\bin\Debug\net6.0-windows\p5-16 PictureBox.exe
+F:\code\Program\C# Forms\p5-16 PictureBox\bin\Debug\net6.0-windows\p5-16 PictureBox.deps.json
+F:\code\Program\C# Forms\p5-16 PictureBox\bin\Debug\net6.0-windows\p5-16 PictureBox.runtimeconfig.json
+F:\code\Program\C# Forms\p5-16 PictureBox\bin\Debug\net6.0-windows\p5-16 PictureBox.dll
+F:\code\Program\C# Forms\p5-16 PictureBox\bin\Debug\net6.0-windows\p5-16 PictureBox.pdb
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\p5-16 PictureBox.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\p5_16_PictureBox.Form1.resources
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\p5_16_PictureBox.Properties.Resources.resources
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\p5-16 PictureBox.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\p5-16 PictureBox.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\p5-16 PictureBox.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\p5-16 PictureBox.AssemblyInfo.cs
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\p5-16 PictureBox.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\p5-16 PictureBox.dll
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\refint\p5-16 PictureBox.dll
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\p5-16 PictureBox.pdb
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\p5-16 PictureBox.genruntimeconfig.cache
+F:\code\Program\C# Forms\p5-16 PictureBox\obj\Debug\net6.0-windows\ref\p5-16 PictureBox.dll

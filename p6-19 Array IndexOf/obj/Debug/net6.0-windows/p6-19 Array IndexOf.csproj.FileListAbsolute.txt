@@ -1,0 +1,17 @@
+F:\code\Program\C# Forms\p6-19 Array IndexOf\bin\Debug\net6.0-windows\p6-19 Array IndexOf.exe
+F:\code\Program\C# Forms\p6-19 Array IndexOf\bin\Debug\net6.0-windows\p6-19 Array IndexOf.deps.json
+F:\code\Program\C# Forms\p6-19 Array IndexOf\bin\Debug\net6.0-windows\p6-19 Array IndexOf.runtimeconfig.json
+F:\code\Program\C# Forms\p6-19 Array IndexOf\bin\Debug\net6.0-windows\p6-19 Array IndexOf.dll
+F:\code\Program\C# Forms\p6-19 Array IndexOf\bin\Debug\net6.0-windows\p6-19 Array IndexOf.pdb
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\p6-19 Array IndexOf.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\p6_19_Array_IndexOf.Form1.resources
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\p6-19 Array IndexOf.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\p6-19 Array IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\p6-19 Array IndexOf.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\p6-19 Array IndexOf.AssemblyInfo.cs
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\p6-19 Array IndexOf.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\p6-19 Array IndexOf.dll
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\refint\p6-19 Array IndexOf.dll
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\p6-19 Array IndexOf.pdb
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\p6-19 Array IndexOf.genruntimeconfig.cache
+F:\code\Program\C# Forms\p6-19 Array IndexOf\obj\Debug\net6.0-windows\ref\p6-19 Array IndexOf.dll

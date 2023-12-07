@@ -1,0 +1,17 @@
+R:\code\Program\C# Forms\Bulls and Cows\bin\Debug\net6.0-windows\Bulls and Cows.exe
+R:\code\Program\C# Forms\Bulls and Cows\bin\Debug\net6.0-windows\Bulls and Cows.deps.json
+R:\code\Program\C# Forms\Bulls and Cows\bin\Debug\net6.0-windows\Bulls and Cows.runtimeconfig.json
+R:\code\Program\C# Forms\Bulls and Cows\bin\Debug\net6.0-windows\Bulls and Cows.dll
+R:\code\Program\C# Forms\Bulls and Cows\bin\Debug\net6.0-windows\Bulls and Cows.pdb
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\Bulls_and_Cows.Form1.resources
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\Bulls and Cows.csproj.GenerateResource.cache
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\Bulls and Cows.GeneratedMSBuildEditorConfig.editorconfig
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\Bulls and Cows.AssemblyInfoInputs.cache
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\Bulls and Cows.AssemblyInfo.cs
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\Bulls and Cows.csproj.CoreCompileInputs.cache
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\Bulls and Cows.sourcelink.json
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\Bulls and Cows.dll
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\refint\Bulls and Cows.dll
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\Bulls and Cows.pdb
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\Bulls and Cows.genruntimeconfig.cache
+R:\code\Program\C# Forms\Bulls and Cows\obj\Debug\net6.0-windows\ref\Bulls and Cows.dll
