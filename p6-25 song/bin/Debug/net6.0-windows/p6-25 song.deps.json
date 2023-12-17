@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p6-25 song/1.0.0": {
+        "runtime": {
+          "p6-25 song.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p6-25 song/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

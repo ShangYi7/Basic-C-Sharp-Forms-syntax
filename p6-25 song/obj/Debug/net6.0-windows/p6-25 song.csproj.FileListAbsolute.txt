@@ -1,0 +1,17 @@
+F:\code\Program\C# Forms\p6-25 song\bin\Debug\net6.0-windows\p6-25 song.exe
+F:\code\Program\C# Forms\p6-25 song\bin\Debug\net6.0-windows\p6-25 song.deps.json
+F:\code\Program\C# Forms\p6-25 song\bin\Debug\net6.0-windows\p6-25 song.runtimeconfig.json
+F:\code\Program\C# Forms\p6-25 song\bin\Debug\net6.0-windows\p6-25 song.dll
+F:\code\Program\C# Forms\p6-25 song\bin\Debug\net6.0-windows\p6-25 song.pdb
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\p6-25 song.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\p6_25_song.Form1.resources
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\p6-25 song.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\p6-25 song.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\p6-25 song.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\p6-25 song.AssemblyInfo.cs
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\p6-25 song.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\p6-25 song.dll
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\refint\p6-25 song.dll
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\p6-25 song.pdb
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\p6-25 song.genruntimeconfig.cache
+F:\code\Program\C# Forms\p6-25 song\obj\Debug\net6.0-windows\ref\p6-25 song.dll
