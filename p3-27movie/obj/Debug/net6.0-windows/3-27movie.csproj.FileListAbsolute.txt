@@ -1,0 +1,16 @@
+R:\code\program\C#\3-27movie\bin\Debug\net6.0-windows\3-27movie.exe
+R:\code\program\C#\3-27movie\bin\Debug\net6.0-windows\3-27movie.deps.json
+R:\code\program\C#\3-27movie\bin\Debug\net6.0-windows\3-27movie.runtimeconfig.json
+R:\code\program\C#\3-27movie\bin\Debug\net6.0-windows\3-27movie.dll
+R:\code\program\C#\3-27movie\bin\Debug\net6.0-windows\3-27movie.pdb
+R:\code\program\C#\3-27movie\obj\Debug\net6.0-windows\_3_27movie.Form1.resources
+R:\code\program\C#\3-27movie\obj\Debug\net6.0-windows\3-27movie.csproj.GenerateResource.cache
+R:\code\program\C#\3-27movie\obj\Debug\net6.0-windows\3-27movie.GeneratedMSBuildEditorConfig.editorconfig
+R:\code\program\C#\3-27movie\obj\Debug\net6.0-windows\3-27movie.AssemblyInfoInputs.cache
+R:\code\program\C#\3-27movie\obj\Debug\net6.0-windows\3-27movie.AssemblyInfo.cs
+R:\code\program\C#\3-27movie\obj\Debug\net6.0-windows\3-27movie.csproj.CoreCompileInputs.cache
+R:\code\program\C#\3-27movie\obj\Debug\net6.0-windows\3-27movie.dll
+R:\code\program\C#\3-27movie\obj\Debug\net6.0-windows\refint\3-27movie.dll
+R:\code\program\C#\3-27movie\obj\Debug\net6.0-windows\3-27movie.pdb
+R:\code\program\C#\3-27movie\obj\Debug\net6.0-windows\3-27movie.genruntimeconfig.cache
+R:\code\program\C#\3-27movie\obj\Debug\net6.0-windows\ref\3-27movie.dll
