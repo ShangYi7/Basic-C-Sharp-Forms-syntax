@@ -1,0 +1,17 @@
+F:\code\Program\C# Forms\p7-6 ScrollPic\bin\Debug\net6.0-windows\p7-6 ScrollPic.exe
+F:\code\Program\C# Forms\p7-6 ScrollPic\bin\Debug\net6.0-windows\p7-6 ScrollPic.deps.json
+F:\code\Program\C# Forms\p7-6 ScrollPic\bin\Debug\net6.0-windows\p7-6 ScrollPic.runtimeconfig.json
+F:\code\Program\C# Forms\p7-6 ScrollPic\bin\Debug\net6.0-windows\p7-6 ScrollPic.dll
+F:\code\Program\C# Forms\p7-6 ScrollPic\bin\Debug\net6.0-windows\p7-6 ScrollPic.pdb
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\p7-6 ScrollPic.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\p7_6_ScrollPic.Form1.resources
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\p7-6 ScrollPic.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\p7-6 ScrollPic.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\p7-6 ScrollPic.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\p7-6 ScrollPic.AssemblyInfo.cs
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\p7-6 ScrollPic.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\p7-6 ScrollPic.dll
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\refint\p7-6 ScrollPic.dll
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\p7-6 ScrollPic.pdb
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\p7-6 ScrollPic.genruntimeconfig.cache
+F:\code\Program\C# Forms\p7-6 ScrollPic\obj\Debug\net6.0-windows\ref\p7-6 ScrollPic.dll

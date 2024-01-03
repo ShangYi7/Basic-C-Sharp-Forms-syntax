@@ -1,0 +1,17 @@
+F:\code\Program\C# Forms\p6-47 CheckedListBox\bin\Debug\net6.0-windows\p6-47 CheckedListBox.exe
+F:\code\Program\C# Forms\p6-47 CheckedListBox\bin\Debug\net6.0-windows\p6-47 CheckedListBox.deps.json
+F:\code\Program\C# Forms\p6-47 CheckedListBox\bin\Debug\net6.0-windows\p6-47 CheckedListBox.runtimeconfig.json
+F:\code\Program\C# Forms\p6-47 CheckedListBox\bin\Debug\net6.0-windows\p6-47 CheckedListBox.dll
+F:\code\Program\C# Forms\p6-47 CheckedListBox\bin\Debug\net6.0-windows\p6-47 CheckedListBox.pdb
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\p6-47 CheckedListBox.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\p6_47_CheckedListBox.Form1.resources
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\p6-47 CheckedListBox.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\p6-47 CheckedListBox.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\p6-47 CheckedListBox.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\p6-47 CheckedListBox.AssemblyInfo.cs
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\p6-47 CheckedListBox.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\p6-47 CheckedListBox.dll
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\refint\p6-47 CheckedListBox.dll
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\p6-47 CheckedListBox.pdb
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\p6-47 CheckedListBox.genruntimeconfig.cache
+F:\code\Program\C# Forms\p6-47 CheckedListBox\obj\Debug\net6.0-windows\ref\p6-47 CheckedListBox.dll

@@ -35,6 +35,11 @@ namespace p6_11
             foreach (int i in sum)
                 msg += $"{i}\t";
             msg += "\n";
+            msg += "¥­§¡\t";
+            foreach (int i in sum)
+            msg += $"{i/4}\t";
+            msg += "\n";
+
             MessageBox.Show(msg, "¦¨ÁZªí");
             Application.Exit();
         }

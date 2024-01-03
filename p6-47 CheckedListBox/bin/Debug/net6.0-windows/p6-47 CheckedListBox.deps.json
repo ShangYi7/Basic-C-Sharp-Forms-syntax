@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p6-47 CheckedListBox/1.0.0": {
+        "runtime": {
+          "p6-47 CheckedListBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p6-47 CheckedListBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
