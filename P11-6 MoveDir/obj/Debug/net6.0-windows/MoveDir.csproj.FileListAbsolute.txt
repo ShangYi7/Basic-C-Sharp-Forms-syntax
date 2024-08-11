@@ -1,0 +1,34 @@
+C:\cs2022\ch11\MoveDir\bin\Debug\net6.0-windows\MoveDir.exe
+C:\cs2022\ch11\MoveDir\bin\Debug\net6.0-windows\MoveDir.deps.json
+C:\cs2022\ch11\MoveDir\bin\Debug\net6.0-windows\MoveDir.runtimeconfig.json
+C:\cs2022\ch11\MoveDir\bin\Debug\net6.0-windows\MoveDir.dll
+C:\cs2022\ch11\MoveDir\bin\Debug\net6.0-windows\MoveDir.pdb
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\MoveDir.csproj.AssemblyReference.cache
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\MoveDir.Form1.resources
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\MoveDir.csproj.GenerateResource.cache
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\MoveDir.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\MoveDir.AssemblyInfoInputs.cache
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\MoveDir.AssemblyInfo.cs
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\MoveDir.csproj.CoreCompileInputs.cache
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\MoveDir.dll
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\refint\MoveDir.dll
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\MoveDir.pdb
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\MoveDir.genruntimeconfig.cache
+C:\cs2022\ch11\MoveDir\obj\Debug\net6.0-windows\ref\MoveDir.dll
+F:\code\Program\C# Forms\P11-6 MoveDir\bin\Debug\net6.0-windows\MoveDir.exe
+F:\code\Program\C# Forms\P11-6 MoveDir\bin\Debug\net6.0-windows\MoveDir.deps.json
+F:\code\Program\C# Forms\P11-6 MoveDir\bin\Debug\net6.0-windows\MoveDir.runtimeconfig.json
+F:\code\Program\C# Forms\P11-6 MoveDir\bin\Debug\net6.0-windows\MoveDir.dll
+F:\code\Program\C# Forms\P11-6 MoveDir\bin\Debug\net6.0-windows\MoveDir.pdb
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\MoveDir.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\MoveDir.Form1.resources
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\MoveDir.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\MoveDir.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\MoveDir.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\MoveDir.AssemblyInfo.cs
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\MoveDir.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\MoveDir.dll
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\refint\MoveDir.dll
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\MoveDir.pdb
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\MoveDir.genruntimeconfig.cache
+F:\code\Program\C# Forms\P11-6 MoveDir\obj\Debug\net6.0-windows\ref\MoveDir.dll

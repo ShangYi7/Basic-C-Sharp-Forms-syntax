@@ -1,0 +1,19 @@
+C:\cs2022\ch01\p12-28 Form\bin\Debug\net6.0-windows\p12-28 Form.exe
+C:\cs2022\ch01\p12-28 Form\bin\Debug\net6.0-windows\p12-28 Form.deps.json
+C:\cs2022\ch01\p12-28 Form\bin\Debug\net6.0-windows\p12-28 Form.runtimeconfig.json
+C:\cs2022\ch01\p12-28 Form\bin\Debug\net6.0-windows\p12-28 Form.dll
+C:\cs2022\ch01\p12-28 Form\bin\Debug\net6.0-windows\p12-28 Form.pdb
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12-28 Form.csproj.AssemblyReference.cache
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12_28_Form.Form1.resources
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12_28_Form.Form2.resources
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12_28_Form.Form3.resources
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12-28 Form.csproj.GenerateResource.cache
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12-28 Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12-28 Form.AssemblyInfoInputs.cache
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12-28 Form.AssemblyInfo.cs
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12-28 Form.csproj.CoreCompileInputs.cache
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12-28 Form.dll
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\refint\p12-28 Form.dll
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12-28 Form.pdb
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\p12-28 Form.genruntimeconfig.cache
+C:\cs2022\ch01\p12-28 Form\obj\Debug\net6.0-windows\ref\p12-28 Form.dll

@@ -1,0 +1,10 @@
+C:\X\程式設計\C\成品\GPA積點計算\bin\Debug\GPA積點計算.exe.config
+C:\X\程式設計\C\成品\GPA積點計算\bin\Debug\GPA積點計算.exe
+C:\X\程式設計\C\成品\GPA積點計算\bin\Debug\GPA積點計算.pdb
+C:\X\程式設計\C\成品\GPA積點計算\obj\Debug\GPA積點計算.csprojResolveAssemblyReference.cache
+C:\X\程式設計\C\成品\GPA積點計算\obj\Debug\GPA積點計算.Form1.resources
+C:\X\程式設計\C\成品\GPA積點計算\obj\Debug\GPA積點計算.Properties.Resources.resources
+C:\X\程式設計\C\成品\GPA積點計算\obj\Debug\GPA積點計算.csproj.GenerateResource.Cache
+C:\X\程式設計\C\成品\GPA積點計算\obj\Debug\GPA積點計算.csproj.CoreCompileInputs.cache
+C:\X\程式設計\C\成品\GPA積點計算\obj\Debug\GPA積點計算.exe
+C:\X\程式設計\C\成品\GPA積點計算\obj\Debug\GPA積點計算.pdb

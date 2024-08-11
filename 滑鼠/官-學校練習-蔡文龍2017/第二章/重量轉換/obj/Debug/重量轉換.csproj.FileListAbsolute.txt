@@ -1,0 +1,10 @@
+C:\程式設計\C\重量轉換\obj\Debug\重量轉換.csprojResolveAssemblyReference.cache
+C:\程式設計\C\重量轉換\obj\Debug\重量轉換.Form1.resources
+C:\程式設計\C\重量轉換\obj\Debug\重量轉換.Properties.Resources.resources
+C:\程式設計\C\重量轉換\obj\Debug\重量轉換.csproj.GenerateResource.Cache
+C:\程式設計\C\重量轉換\obj\Debug\重量轉換.csproj.CoreCompileInputs.cache
+C:\程式設計\C\重量轉換\bin\Debug\重量轉換.exe.config
+C:\程式設計\C\重量轉換\bin\Debug\重量轉換.exe
+C:\程式設計\C\重量轉換\bin\Debug\重量轉換.pdb
+C:\程式設計\C\重量轉換\obj\Debug\重量轉換.exe
+C:\程式設計\C\重量轉換\obj\Debug\重量轉換.pdb

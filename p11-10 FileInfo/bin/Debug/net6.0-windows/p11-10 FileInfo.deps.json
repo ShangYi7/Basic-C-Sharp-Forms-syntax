@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p11-10 FileInfo/1.0.0": {
+        "runtime": {
+          "p11-10 FileInfo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p11-10 FileInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

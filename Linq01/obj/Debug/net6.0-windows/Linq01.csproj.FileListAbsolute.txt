@@ -1,0 +1,34 @@
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\bin\Debug\net6.0-windows\Linq01.exe
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\bin\Debug\net6.0-windows\Linq01.deps.json
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\bin\Debug\net6.0-windows\Linq01.runtimeconfig.json
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\bin\Debug\net6.0-windows\Linq01.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\bin\Debug\net6.0-windows\Linq01.pdb
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\Linq01.csproj.AssemblyReference.cache
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\Linq01.Form1.resources
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\Linq01.csproj.GenerateResource.cache
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\Linq01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\Linq01.AssemblyInfoInputs.cache
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\Linq01.AssemblyInfo.cs
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\Linq01.csproj.CoreCompileInputs.cache
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\Linq01.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\refint\Linq01.dll
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\Linq01.pdb
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\Linq01.genruntimeconfig.cache
+C:\Users\jasper\Desktop\ITPCBook工作室\Visual C# 2022基礎必修課\範例\ch13\Linq01\obj\Debug\net6.0-windows\ref\Linq01.dll
+C:\Users\user\Desktop\Linq01\bin\Debug\net6.0-windows\Linq01.exe
+C:\Users\user\Desktop\Linq01\bin\Debug\net6.0-windows\Linq01.deps.json
+C:\Users\user\Desktop\Linq01\bin\Debug\net6.0-windows\Linq01.runtimeconfig.json
+C:\Users\user\Desktop\Linq01\bin\Debug\net6.0-windows\Linq01.dll
+C:\Users\user\Desktop\Linq01\bin\Debug\net6.0-windows\Linq01.pdb
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\Linq01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\Linq01.Form1.resources
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\Linq01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\Linq01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\Linq01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\Linq01.AssemblyInfo.cs
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\Linq01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\Linq01.dll
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\refint\Linq01.dll
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\Linq01.pdb
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\Linq01.genruntimeconfig.cache
+C:\Users\user\Desktop\Linq01\obj\Debug\net6.0-windows\ref\Linq01.dll

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\猜拳\bin\Debug\猜拳.exe.config
+C:\Users\User\Desktop\猜拳\bin\Debug\猜拳.exe
+C:\Users\User\Desktop\猜拳\bin\Debug\猜拳.pdb
+C:\Users\User\Desktop\猜拳\obj\Debug\猜拳.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\猜拳\obj\Debug\猜拳.Form1.resources
+C:\Users\User\Desktop\猜拳\obj\Debug\猜拳.Properties.Resources.resources
+C:\Users\User\Desktop\猜拳\obj\Debug\猜拳.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\猜拳\obj\Debug\猜拳.exe
+C:\Users\User\Desktop\猜拳\obj\Debug\猜拳.pdb

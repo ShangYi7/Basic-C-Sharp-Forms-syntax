@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\機車移動\bin\Debug\機車移動.exe.config
+C:\Users\user\Desktop\機車移動\bin\Debug\機車移動.exe
+C:\Users\user\Desktop\機車移動\bin\Debug\機車移動.pdb
+C:\Users\user\Desktop\機車移動\obj\Debug\機車移動.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\機車移動\obj\Debug\機車移動.Form1.resources
+C:\Users\user\Desktop\機車移動\obj\Debug\機車移動.Properties.Resources.resources
+C:\Users\user\Desktop\機車移動\obj\Debug\機車移動.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\機車移動\obj\Debug\機車移動.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\機車移動\obj\Debug\機車移動.exe
+C:\Users\user\Desktop\機車移動\obj\Debug\機車移動.pdb

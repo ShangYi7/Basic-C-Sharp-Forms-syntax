@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\累加\bin\Debug\累加.exe.config
+C:\Users\user\Desktop\累加\bin\Debug\累加.exe
+C:\Users\user\Desktop\累加\bin\Debug\累加.pdb
+C:\Users\user\Desktop\累加\obj\Debug\累加.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\累加\obj\Debug\累加.Form1.resources
+C:\Users\user\Desktop\累加\obj\Debug\累加.Properties.Resources.resources
+C:\Users\user\Desktop\累加\obj\Debug\累加.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\累加\obj\Debug\累加.exe
+C:\Users\user\Desktop\累加\obj\Debug\累加.pdb

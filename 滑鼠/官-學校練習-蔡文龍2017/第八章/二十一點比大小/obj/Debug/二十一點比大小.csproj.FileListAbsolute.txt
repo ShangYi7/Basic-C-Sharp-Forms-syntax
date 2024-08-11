@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\二十一點比大小\bin\Debug\二十一點比大小.exe.config
+C:\Users\user\Desktop\二十一點比大小\bin\Debug\二十一點比大小.exe
+C:\Users\user\Desktop\二十一點比大小\bin\Debug\二十一點比大小.pdb
+C:\Users\user\Desktop\二十一點比大小\obj\Debug\二十一點比大小.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\二十一點比大小\obj\Debug\二十一點比大小.Form1.resources
+C:\Users\user\Desktop\二十一點比大小\obj\Debug\二十一點比大小.Properties.Resources.resources
+C:\Users\user\Desktop\二十一點比大小\obj\Debug\二十一點比大小.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\二十一點比大小\obj\Debug\二十一點比大小.exe
+C:\Users\user\Desktop\二十一點比大小\obj\Debug\二十一點比大小.pdb
+D:\二十一點比大小\bin\Debug\二十一點比大小.exe.config
+D:\二十一點比大小\obj\Debug\二十一點比大小.exe
+D:\二十一點比大小\obj\Debug\二十一點比大小.pdb

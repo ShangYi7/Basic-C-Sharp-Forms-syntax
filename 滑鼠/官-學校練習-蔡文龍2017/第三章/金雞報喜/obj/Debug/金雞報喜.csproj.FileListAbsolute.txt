@@ -1,0 +1,10 @@
+C:\X\程式設計\C\成品\金雞報喜\bin\Debug\金雞報喜.exe.config
+C:\X\程式設計\C\成品\金雞報喜\bin\Debug\金雞報喜.exe
+C:\X\程式設計\C\成品\金雞報喜\bin\Debug\金雞報喜.pdb
+C:\X\程式設計\C\成品\金雞報喜\obj\Debug\金雞報喜.csprojResolveAssemblyReference.cache
+C:\X\程式設計\C\成品\金雞報喜\obj\Debug\金雞報喜.Form1.resources
+C:\X\程式設計\C\成品\金雞報喜\obj\Debug\金雞報喜.Properties.Resources.resources
+C:\X\程式設計\C\成品\金雞報喜\obj\Debug\金雞報喜.csproj.GenerateResource.Cache
+C:\X\程式設計\C\成品\金雞報喜\obj\Debug\金雞報喜.csproj.CoreCompileInputs.cache
+C:\X\程式設計\C\成品\金雞報喜\obj\Debug\金雞報喜.exe
+C:\X\程式設計\C\成品\金雞報喜\obj\Debug\金雞報喜.pdb

@@ -1,0 +1,51 @@
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\bin\Debug\net6.0-windows\Property.exe
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\bin\Debug\net6.0-windows\Property.deps.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\bin\Debug\net6.0-windows\Property.runtimeconfig.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\bin\Debug\net6.0-windows\Property.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\bin\Debug\net6.0-windows\Property.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\Property.csproj.AssemblyReference.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\Property.Form1.resources
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\Property.csproj.GenerateResource.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\Property.GeneratedMSBuildEditorConfig.editorconfig
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\Property.AssemblyInfoInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\Property.AssemblyInfo.cs
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\Property.csproj.CoreCompileInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\Property.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\refint\Property.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\Property.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\Property.genruntimeconfig.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch12\ch12\Property\obj\Debug\net6.0-windows\ref\Property.dll
+C:\Users\user\Desktop\Property\bin\Debug\net6.0-windows\Property.exe
+C:\Users\user\Desktop\Property\bin\Debug\net6.0-windows\Property.deps.json
+C:\Users\user\Desktop\Property\bin\Debug\net6.0-windows\Property.runtimeconfig.json
+C:\Users\user\Desktop\Property\bin\Debug\net6.0-windows\Property.dll
+C:\Users\user\Desktop\Property\bin\Debug\net6.0-windows\Property.pdb
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\Property.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\Property.Form1.resources
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\Property.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\Property.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\Property.AssemblyInfo.cs
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\Property.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\Property.dll
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\refint\Property.dll
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\Property.pdb
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\Property.genruntimeconfig.cache
+C:\Users\user\Desktop\Property\obj\Debug\net6.0-windows\ref\Property.dll
+C:\Users\user\Desktop\p12-12 Property\bin\Debug\net6.0-windows\Property.exe
+C:\Users\user\Desktop\p12-12 Property\bin\Debug\net6.0-windows\Property.deps.json
+C:\Users\user\Desktop\p12-12 Property\bin\Debug\net6.0-windows\Property.runtimeconfig.json
+C:\Users\user\Desktop\p12-12 Property\bin\Debug\net6.0-windows\Property.dll
+C:\Users\user\Desktop\p12-12 Property\bin\Debug\net6.0-windows\Property.pdb
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\Property.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\Property.Form1.resources
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\Property.csproj.GenerateResource.cache
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\Property.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\Property.AssemblyInfo.cs
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\Property.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\Property.dll
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\refint\Property.dll
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\Property.pdb
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\Property.genruntimeconfig.cache
+C:\Users\user\Desktop\p12-12 Property\obj\Debug\net6.0-windows\ref\Property.dll

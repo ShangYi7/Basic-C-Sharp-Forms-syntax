@@ -1,0 +1,34 @@
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\bin\Debug\net6.0-windows\FontDialog.exe
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\bin\Debug\net6.0-windows\FontDialog.deps.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\bin\Debug\net6.0-windows\FontDialog.runtimeconfig.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\bin\Debug\net6.0-windows\FontDialog.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\bin\Debug\net6.0-windows\FontDialog.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\FontDialog.csproj.AssemblyReference.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\FontDialog.Form1.resources
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\FontDialog.csproj.GenerateResource.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\FontDialog.GeneratedMSBuildEditorConfig.editorconfig
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\FontDialog.AssemblyInfoInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\FontDialog.AssemblyInfo.cs
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\FontDialog.csproj.CoreCompileInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\FontDialog.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\refint\FontDialog.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\FontDialog.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\FontDialog.genruntimeconfig.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\FontDialog\obj\Debug\net6.0-windows\ref\FontDialog.dll
+F:\code\Program\C# Forms\p10-2 FontDialog\bin\Debug\net6.0-windows\FontDialog.exe
+F:\code\Program\C# Forms\p10-2 FontDialog\bin\Debug\net6.0-windows\FontDialog.deps.json
+F:\code\Program\C# Forms\p10-2 FontDialog\bin\Debug\net6.0-windows\FontDialog.runtimeconfig.json
+F:\code\Program\C# Forms\p10-2 FontDialog\bin\Debug\net6.0-windows\FontDialog.dll
+F:\code\Program\C# Forms\p10-2 FontDialog\bin\Debug\net6.0-windows\FontDialog.pdb
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\FontDialog.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\FontDialog.Form1.resources
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\FontDialog.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\FontDialog.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\FontDialog.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\FontDialog.AssemblyInfo.cs
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\FontDialog.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\FontDialog.dll
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\refint\FontDialog.dll
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\FontDialog.pdb
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\FontDialog.genruntimeconfig.cache
+F:\code\Program\C# Forms\p10-2 FontDialog\obj\Debug\net6.0-windows\ref\FontDialog.dll

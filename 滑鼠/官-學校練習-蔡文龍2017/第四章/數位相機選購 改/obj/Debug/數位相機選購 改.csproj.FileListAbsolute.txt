@@ -1,0 +1,30 @@
+C:\X\程式設計\C\成品\數位相機選購 改\bin\Debug\數位相機選購 改.exe.config
+C:\X\程式設計\C\成品\數位相機選購 改\bin\Debug\數位相機選購 改.exe
+C:\X\程式設計\C\成品\數位相機選購 改\bin\Debug\數位相機選購 改.pdb
+C:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購_改.Form1.resources
+C:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購_改.Properties.Resources.resources
+C:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購 改.csproj.GenerateResource.Cache
+C:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購 改.csproj.CoreCompileInputs.cache
+C:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購 改.exe
+C:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購 改.pdb
+C:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購 改.csprojResolveAssemblyReference.cache
+D:\X\程式設計\C\成品\數位相機選購 改\bin\Debug\數位相機選購 改.exe.config
+D:\X\程式設計\C\成品\數位相機選購 改\bin\Debug\數位相機選購 改.exe
+D:\X\程式設計\C\成品\數位相機選購 改\bin\Debug\數位相機選購 改.pdb
+D:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購 改.csprojResolveAssemblyReference.cache
+D:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購_改.Form1.resources
+D:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購_改.Properties.Resources.resources
+D:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購 改.csproj.GenerateResource.Cache
+D:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購 改.csproj.CoreCompileInputs.cache
+D:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購 改.exe
+D:\X\程式設計\C\成品\數位相機選購 改\obj\Debug\數位相機選購 改.pdb
+C:\Users\User\Desktop\數位相機選購 改\bin\Debug\數位相機選購 改.exe.config
+C:\Users\User\Desktop\數位相機選購 改\bin\Debug\數位相機選購 改.exe
+C:\Users\User\Desktop\數位相機選購 改\bin\Debug\數位相機選購 改.pdb
+C:\Users\User\Desktop\數位相機選購 改\obj\Debug\數位相機選購 改.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\數位相機選購 改\obj\Debug\數位相機選購_改.Form1.resources
+C:\Users\User\Desktop\數位相機選購 改\obj\Debug\數位相機選購_改.Properties.Resources.resources
+C:\Users\User\Desktop\數位相機選購 改\obj\Debug\數位相機選購 改.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\數位相機選購 改\obj\Debug\數位相機選購 改.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\數位相機選購 改\obj\Debug\數位相機選購 改.exe
+C:\Users\User\Desktop\數位相機選購 改\obj\Debug\數位相機選購 改.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\營業報表\bin\Debug\營業報表.exe.config
+C:\Users\user\Desktop\營業報表\bin\Debug\營業報表.exe
+C:\Users\user\Desktop\營業報表\bin\Debug\營業報表.pdb
+C:\Users\user\Desktop\營業報表\obj\Debug\營業報表.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\營業報表\obj\Debug\營業報表.Form1.resources
+C:\Users\user\Desktop\營業報表\obj\Debug\營業報表.Properties.Resources.resources
+C:\Users\user\Desktop\營業報表\obj\Debug\營業報表.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\營業報表\obj\Debug\營業報表.exe
+C:\Users\user\Desktop\營業報表\obj\Debug\營業報表.pdb
+C:\Users\User\Desktop\營業報表\obj\Debug\營業報表.csproj.CoreCompileInputs.cache

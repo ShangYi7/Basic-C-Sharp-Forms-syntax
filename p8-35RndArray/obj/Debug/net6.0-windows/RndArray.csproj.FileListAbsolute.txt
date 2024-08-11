@@ -1,0 +1,34 @@
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\bin\Debug\net6.0-windows\RndArray.exe
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\bin\Debug\net6.0-windows\RndArray.deps.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\bin\Debug\net6.0-windows\RndArray.runtimeconfig.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\bin\Debug\net6.0-windows\RndArray.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\bin\Debug\net6.0-windows\RndArray.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\RndArray.csproj.AssemblyReference.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\RndArray.Form1.resources
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\RndArray.csproj.GenerateResource.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\RndArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\RndArray.AssemblyInfoInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\RndArray.AssemblyInfo.cs
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\RndArray.csproj.CoreCompileInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\RndArray.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\refint\RndArray.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\RndArray.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\RndArray.genruntimeconfig.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch08\ch08\RndArray\obj\Debug\net6.0-windows\ref\RndArray.dll
+F:\code\Program\C# Forms\p8-35RndArray\bin\Debug\net6.0-windows\RndArray.exe
+F:\code\Program\C# Forms\p8-35RndArray\bin\Debug\net6.0-windows\RndArray.deps.json
+F:\code\Program\C# Forms\p8-35RndArray\bin\Debug\net6.0-windows\RndArray.runtimeconfig.json
+F:\code\Program\C# Forms\p8-35RndArray\bin\Debug\net6.0-windows\RndArray.dll
+F:\code\Program\C# Forms\p8-35RndArray\bin\Debug\net6.0-windows\RndArray.pdb
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\RndArray.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\RndArray.Form1.resources
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\RndArray.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\RndArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\RndArray.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\RndArray.AssemblyInfo.cs
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\RndArray.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\RndArray.dll
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\refint\RndArray.dll
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\RndArray.pdb
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\RndArray.genruntimeconfig.cache
+F:\code\Program\C# Forms\p8-35RndArray\obj\Debug\net6.0-windows\ref\RndArray.dll

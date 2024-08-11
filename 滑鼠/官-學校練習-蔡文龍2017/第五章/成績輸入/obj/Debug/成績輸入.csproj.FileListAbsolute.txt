@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\成績輸入\bin\Debug\成績輸入.exe.config
+C:\Users\user\Desktop\成績輸入\obj\Debug\成績輸入.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\成績輸入\obj\Debug\成績輸入.Form1.resources
+C:\Users\user\Desktop\成績輸入\obj\Debug\成績輸入.Properties.Resources.resources
+C:\Users\user\Desktop\成績輸入\obj\Debug\成績輸入.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\成績輸入\obj\Debug\成績輸入.csproj.ResolveComReference.cache
+D:\X\新增資料夾\成績輸入\bin\Debug\成績輸入.exe.config
+D:\X\新增資料夾\成績輸入\bin\Debug\成績輸入.exe
+D:\X\新增資料夾\成績輸入\bin\Debug\成績輸入.pdb
+D:\X\新增資料夾\成績輸入\obj\Debug\成績輸入.csprojResolveAssemblyReference.cache
+D:\X\新增資料夾\成績輸入\obj\Debug\成績輸入.csproj.ResolveComReference.cache
+D:\X\新增資料夾\成績輸入\obj\Debug\成績輸入.Form1.resources
+D:\X\新增資料夾\成績輸入\obj\Debug\成績輸入.Properties.Resources.resources
+D:\X\新增資料夾\成績輸入\obj\Debug\成績輸入.csproj.GenerateResource.Cache
+D:\X\新增資料夾\成績輸入\obj\Debug\成績輸入.csproj.CoreCompileInputs.cache
+D:\X\新增資料夾\成績輸入\obj\Debug\成績輸入.exe
+D:\X\新增資料夾\成績輸入\obj\Debug\成績輸入.pdb

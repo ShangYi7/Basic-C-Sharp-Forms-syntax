@@ -1,0 +1,36 @@
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\bin\Debug\net6.0-windows\RunWord.exe
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\bin\Debug\net6.0-windows\RunWord.deps.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\bin\Debug\net6.0-windows\RunWord.runtimeconfig.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\bin\Debug\net6.0-windows\RunWord.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\bin\Debug\net6.0-windows\RunWord.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\RunWord.csproj.AssemblyReference.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\RunWord.Form1.resources
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\RunWord.Properties.Resources.resources
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\RunWord.csproj.GenerateResource.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\RunWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\RunWord.AssemblyInfoInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\RunWord.AssemblyInfo.cs
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\RunWord.csproj.CoreCompileInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\RunWord.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\refint\RunWord.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\RunWord.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\RunWord.genruntimeconfig.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\RunWord\obj\Debug\net6.0-windows\ref\RunWord.dll
+F:\code\Program\C# Forms\p9-21 RunWord\bin\Debug\net6.0-windows\RunWord.exe
+F:\code\Program\C# Forms\p9-21 RunWord\bin\Debug\net6.0-windows\RunWord.deps.json
+F:\code\Program\C# Forms\p9-21 RunWord\bin\Debug\net6.0-windows\RunWord.runtimeconfig.json
+F:\code\Program\C# Forms\p9-21 RunWord\bin\Debug\net6.0-windows\RunWord.dll
+F:\code\Program\C# Forms\p9-21 RunWord\bin\Debug\net6.0-windows\RunWord.pdb
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\RunWord.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\RunWord.Form1.resources
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\RunWord.Properties.Resources.resources
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\RunWord.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\RunWord.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\RunWord.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\RunWord.AssemblyInfo.cs
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\RunWord.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\RunWord.dll
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\refint\RunWord.dll
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\RunWord.pdb
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\RunWord.genruntimeconfig.cache
+F:\code\Program\C# Forms\p9-21 RunWord\obj\Debug\net6.0-windows\ref\RunWord.dll

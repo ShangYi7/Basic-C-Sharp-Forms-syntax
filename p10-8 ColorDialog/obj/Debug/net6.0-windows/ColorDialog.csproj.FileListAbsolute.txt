@@ -1,0 +1,34 @@
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\bin\Debug\net6.0-windows\ColorDialog.exe
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\bin\Debug\net6.0-windows\ColorDialog.deps.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\bin\Debug\net6.0-windows\ColorDialog.runtimeconfig.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\bin\Debug\net6.0-windows\ColorDialog.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\bin\Debug\net6.0-windows\ColorDialog.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\ColorDialog.csproj.AssemblyReference.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\ColorDialog.Form1.resources
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\ColorDialog.csproj.GenerateResource.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\ColorDialog.GeneratedMSBuildEditorConfig.editorconfig
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\ColorDialog.AssemblyInfoInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\ColorDialog.AssemblyInfo.cs
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\ColorDialog.csproj.CoreCompileInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\ColorDialog.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\refint\ColorDialog.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\ColorDialog.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\ColorDialog.genruntimeconfig.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch10\ch10\ColorDialog\obj\Debug\net6.0-windows\ref\ColorDialog.dll
+F:\code\Program\C# Forms\p10-8 ColorDialog\bin\Debug\net6.0-windows\ColorDialog.exe
+F:\code\Program\C# Forms\p10-8 ColorDialog\bin\Debug\net6.0-windows\ColorDialog.deps.json
+F:\code\Program\C# Forms\p10-8 ColorDialog\bin\Debug\net6.0-windows\ColorDialog.runtimeconfig.json
+F:\code\Program\C# Forms\p10-8 ColorDialog\bin\Debug\net6.0-windows\ColorDialog.dll
+F:\code\Program\C# Forms\p10-8 ColorDialog\bin\Debug\net6.0-windows\ColorDialog.pdb
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\ColorDialog.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\ColorDialog.Form1.resources
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\ColorDialog.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\ColorDialog.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\ColorDialog.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\ColorDialog.AssemblyInfo.cs
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\ColorDialog.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\ColorDialog.dll
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\refint\ColorDialog.dll
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\ColorDialog.pdb
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\ColorDialog.genruntimeconfig.cache
+F:\code\Program\C# Forms\p10-8 ColorDialog\obj\Debug\net6.0-windows\ref\ColorDialog.dll

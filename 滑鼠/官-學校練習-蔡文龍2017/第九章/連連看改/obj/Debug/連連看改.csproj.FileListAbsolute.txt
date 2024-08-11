@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\連連看改\bin\Debug\連連看改.exe.config
+C:\Users\User\Desktop\連連看改\bin\Debug\連連看改.exe
+C:\Users\User\Desktop\連連看改\bin\Debug\連連看改.pdb
+C:\Users\User\Desktop\連連看改\obj\Debug\連連看改.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\連連看改\obj\Debug\連連看改.Form1.resources
+C:\Users\User\Desktop\連連看改\obj\Debug\連連看改.Properties.Resources.resources
+C:\Users\User\Desktop\連連看改\obj\Debug\連連看改.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\連連看改\obj\Debug\連連看改.exe
+C:\Users\User\Desktop\連連看改\obj\Debug\連連看改.pdb
+C:\Users\User\Desktop\新增資料夾 (2)\連連看改\bin\Debug\連連看改.exe.config
+C:\Users\User\Desktop\新增資料夾 (2)\連連看改\obj\Debug\連連看改.exe
+C:\Users\User\Desktop\新增資料夾 (2)\連連看改\obj\Debug\連連看改.pdb
+C:\Users\User\Desktop\新增資料夾 (2)\連連看改\bin\Debug\連連看改.exe
+C:\Users\User\Desktop\新增資料夾 (2)\連連看改\bin\Debug\連連看改.pdb
+C:\Users\User\Desktop\新增資料夾 (2)\連連看改\obj\Debug\連連看改.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\新增資料夾 (2)\連連看改\obj\Debug\連連看改.Form1.resources
+C:\Users\User\Desktop\新增資料夾 (2)\連連看改\obj\Debug\連連看改.Properties.Resources.resources
+C:\Users\User\Desktop\新增資料夾 (2)\連連看改\obj\Debug\連連看改.csproj.GenerateResource.Cache

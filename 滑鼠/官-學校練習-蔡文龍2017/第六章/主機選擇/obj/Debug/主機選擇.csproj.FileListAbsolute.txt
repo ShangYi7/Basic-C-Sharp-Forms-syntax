@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\主機選擇\bin\Debug\主機選擇.exe.config
+C:\Users\User\source\repos\主機選擇\bin\Debug\主機選擇.exe
+C:\Users\User\source\repos\主機選擇\bin\Debug\主機選擇.pdb
+C:\Users\User\source\repos\主機選擇\obj\Debug\主機選擇.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\主機選擇\obj\Debug\主機選擇.Form1.resources
+C:\Users\User\source\repos\主機選擇\obj\Debug\主機選擇.Properties.Resources.resources
+C:\Users\User\source\repos\主機選擇\obj\Debug\主機選擇.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\主機選擇\obj\Debug\主機選擇.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\主機選擇\obj\Debug\主機選擇.exe
+C:\Users\User\source\repos\主機選擇\obj\Debug\主機選擇.pdb

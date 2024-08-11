@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\票價依年齡判斷\bin\Debug\票價依年齡判斷.exe.config
+C:\Users\user\Desktop\票價依年齡判斷\bin\Debug\票價依年齡判斷.exe
+C:\Users\user\Desktop\票價依年齡判斷\bin\Debug\票價依年齡判斷.pdb
+C:\Users\user\Desktop\票價依年齡判斷\obj\Debug\票價依年齡判斷.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\票價依年齡判斷\obj\Debug\票價依年齡判斷.Form1.resources
+C:\Users\user\Desktop\票價依年齡判斷\obj\Debug\票價依年齡判斷.Properties.Resources.resources
+C:\Users\user\Desktop\票價依年齡判斷\obj\Debug\票價依年齡判斷.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\票價依年齡判斷\obj\Debug\票價依年齡判斷.exe
+C:\Users\user\Desktop\票價依年齡判斷\obj\Debug\票價依年齡判斷.pdb

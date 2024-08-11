@@ -1,0 +1,67 @@
+private void button1_Click(object sender, EventArgs e)
+        {
+            int f, c;
+            if (textBox2.Text == "" )
+            {
+                try
+                {
+                    string x = textBox1.Text, y = textBox2.Text;
+                    f = Convert.ToInt32(x);
+                    c = (f - 32) * 5 / 9;
+                    textBox2.Text = Convert.ToString(c) + "度";
+                }
+                catch
+                {
+                    textBox1.Text = "請重新輸入";
+                    textBox2.Text = "請重新輸入";
+                }
+              
+            }
+            else if (textBox1.Text == "" )
+            {
+                try
+                {
+                    string x = textBox1.Text, y = textBox2.Text;
+                    c = Convert.ToInt32(y);
+                    f = c * 9 / 5 + 32;
+                    textBox1.Text = Convert.ToString(f) + "度";
+                }
+                catch
+                {
+                    textBox1.Text = "請重新輸入";
+                    textBox2.Text = "請重新輸入";
+                }
+            }
+            else
+            {
+                try
+                {
+                    string x = textBox1.Text, y = textBox2.Text;
+                    f = Convert.ToInt32(x);
+                    c = (f - 32) * 5 / 9;
+                    textBox2.Text = Convert.ToString(c);
+                }
+                catch
+                {
+                    textBox1.Text = "請重新輸入";
+                    textBox2.Text = "請重新輸入";
+                }
+            }
+        }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            //textBox1.PasswordChar = '*';
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            //textBox2.PasswordChar = '*';
+        }

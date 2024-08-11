@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\輸入八數判斷奇偶\bin\Debug\輸入八數判斷奇偶.exe.config
+C:\Users\user\Desktop\輸入八數判斷奇偶\bin\Debug\輸入八數判斷奇偶.exe
+C:\Users\user\Desktop\輸入八數判斷奇偶\bin\Debug\輸入八數判斷奇偶.pdb
+C:\Users\user\Desktop\輸入八數判斷奇偶\obj\Debug\輸入八數判斷奇偶.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\輸入八數判斷奇偶\obj\Debug\輸入八數判斷奇偶.Form1.resources
+C:\Users\user\Desktop\輸入八數判斷奇偶\obj\Debug\輸入八數判斷奇偶.Properties.Resources.resources
+C:\Users\user\Desktop\輸入八數判斷奇偶\obj\Debug\輸入八數判斷奇偶.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\輸入八數判斷奇偶\obj\Debug\輸入八數判斷奇偶.exe
+C:\Users\user\Desktop\輸入八數判斷奇偶\obj\Debug\輸入八數判斷奇偶.pdb

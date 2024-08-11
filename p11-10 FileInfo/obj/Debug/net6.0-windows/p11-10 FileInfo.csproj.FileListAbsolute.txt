@@ -1,0 +1,17 @@
+F:\code\Program\C# Forms\p11-10 FileInfo\bin\Debug\net6.0-windows\p11-10 FileInfo.exe
+F:\code\Program\C# Forms\p11-10 FileInfo\bin\Debug\net6.0-windows\p11-10 FileInfo.deps.json
+F:\code\Program\C# Forms\p11-10 FileInfo\bin\Debug\net6.0-windows\p11-10 FileInfo.runtimeconfig.json
+F:\code\Program\C# Forms\p11-10 FileInfo\bin\Debug\net6.0-windows\p11-10 FileInfo.dll
+F:\code\Program\C# Forms\p11-10 FileInfo\bin\Debug\net6.0-windows\p11-10 FileInfo.pdb
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\p11-10 FileInfo.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\p11_10_FileInfo.Form1.resources
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\p11-10 FileInfo.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\p11-10 FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\p11-10 FileInfo.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\p11-10 FileInfo.AssemblyInfo.cs
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\p11-10 FileInfo.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\p11-10 FileInfo.dll
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\refint\p11-10 FileInfo.dll
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\p11-10 FileInfo.pdb
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\p11-10 FileInfo.genruntimeconfig.cache
+F:\code\Program\C# Forms\p11-10 FileInfo\obj\Debug\net6.0-windows\ref\p11-10 FileInfo.dll

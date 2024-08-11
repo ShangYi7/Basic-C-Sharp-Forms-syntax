@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\分數輸入\bin\Debug\分數輸入.exe.config
+C:\Users\User\Desktop\分數輸入\bin\Debug\分數輸入.exe
+C:\Users\User\Desktop\分數輸入\bin\Debug\分數輸入.pdb
+C:\Users\User\Desktop\分數輸入\obj\Debug\分數輸入.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\分數輸入\obj\Debug\分數輸入.Form1.resources
+C:\Users\User\Desktop\分數輸入\obj\Debug\分數輸入.Properties.Resources.resources
+C:\Users\User\Desktop\分數輸入\obj\Debug\分數輸入.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\分數輸入\obj\Debug\分數輸入.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\分數輸入\obj\Debug\分數輸入.exe
+C:\Users\User\Desktop\分數輸入\obj\Debug\分數輸入.pdb

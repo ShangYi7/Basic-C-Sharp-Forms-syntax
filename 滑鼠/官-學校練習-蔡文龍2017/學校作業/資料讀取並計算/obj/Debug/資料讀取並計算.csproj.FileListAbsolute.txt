@@ -1,0 +1,10 @@
+D:\資料讀取並計算\bin\Debug\資料讀取並計算.exe.config
+D:\資料讀取並計算\bin\Debug\資料讀取並計算.exe
+D:\資料讀取並計算\bin\Debug\資料讀取並計算.pdb
+D:\資料讀取並計算\obj\Debug\資料讀取並計算.csprojResolveAssemblyReference.cache
+D:\資料讀取並計算\obj\Debug\資料讀取並計算.Form1.resources
+D:\資料讀取並計算\obj\Debug\資料讀取並計算.Properties.Resources.resources
+D:\資料讀取並計算\obj\Debug\資料讀取並計算.csproj.GenerateResource.Cache
+D:\資料讀取並計算\obj\Debug\資料讀取並計算.csproj.CoreCompileInputs.cache
+D:\資料讀取並計算\obj\Debug\資料讀取並計算.exe
+D:\資料讀取並計算\obj\Debug\資料讀取並計算.pdb

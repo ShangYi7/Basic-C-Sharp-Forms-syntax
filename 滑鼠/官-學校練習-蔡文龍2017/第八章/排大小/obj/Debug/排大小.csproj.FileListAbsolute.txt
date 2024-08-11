@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\排大小\bin\Debug\排大小.exe.config
+C:\Users\user\Desktop\排大小\bin\Debug\排大小.exe
+C:\Users\user\Desktop\排大小\bin\Debug\排大小.pdb
+C:\Users\user\Desktop\排大小\obj\Debug\排大小.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\排大小\obj\Debug\排大小.Form1.resources
+C:\Users\user\Desktop\排大小\obj\Debug\排大小.Properties.Resources.resources
+C:\Users\user\Desktop\排大小\obj\Debug\排大小.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\排大小\obj\Debug\排大小.exe
+C:\Users\user\Desktop\排大小\obj\Debug\排大小.pdb

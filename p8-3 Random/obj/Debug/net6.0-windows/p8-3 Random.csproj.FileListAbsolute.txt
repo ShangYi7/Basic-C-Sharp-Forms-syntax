@@ -1,0 +1,17 @@
+F:\code\Program\C# Forms\p8-3 Random\bin\Debug\net6.0-windows\p8-3 Random.exe
+F:\code\Program\C# Forms\p8-3 Random\bin\Debug\net6.0-windows\p8-3 Random.deps.json
+F:\code\Program\C# Forms\p8-3 Random\bin\Debug\net6.0-windows\p8-3 Random.runtimeconfig.json
+F:\code\Program\C# Forms\p8-3 Random\bin\Debug\net6.0-windows\p8-3 Random.dll
+F:\code\Program\C# Forms\p8-3 Random\bin\Debug\net6.0-windows\p8-3 Random.pdb
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\p8-3 Random.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\p8_3_Random.Form1.resources
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\p8-3 Random.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\p8-3 Random.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\p8-3 Random.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\p8-3 Random.AssemblyInfo.cs
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\p8-3 Random.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\p8-3 Random.dll
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\refint\p8-3 Random.dll
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\p8-3 Random.pdb
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\p8-3 Random.genruntimeconfig.cache
+F:\code\Program\C# Forms\p8-3 Random\obj\Debug\net6.0-windows\ref\p8-3 Random.dll

@@ -2,6 +2,14 @@ namespace p6_25_song
 {
     public partial class Form1 : Form
     {
+        // song字串陣列存放歌曲名稱
+        string[] song = new string[] { "不為誰而作的歌", "餘波盪漾","後來的我們",
+          "不該", "年輪說", "滿座", "關鍵詞", "天真有邪","獨善其身", "一次幸福的機會" };
+        //singer字串陣列存放歌手姓名
+        string[] singer = new string[] { "林俊傑", "田馥甄", "五月天", "周杰倫",
+                 "楊丞琳", "李榮浩", "林俊傑", "林宥嘉","田馥甄", "蕭敬騰" };
+        int[] no = new int[10];                // no整數陣列存放排名
+
         public Form1()
         {
             InitializeComponent();
@@ -16,19 +24,11 @@ namespace p6_25_song
             button1_Click(sender, e);     // 執行button1_Click事件函式
         }
 
-        // song字串陣列存放歌曲名稱
-        string[] song = new string[] { "不為誰而作的歌", "餘波盪漾","後來的我們",
-          "不該", "年輪說", "滿座", "關鍵詞", "天真有邪","獨善其身", "一次幸福的機會" };
-        //singer字串陣列存放歌手姓名
-        string[] singer = new string[] { "林俊傑", "田馥甄", "五月天", "周杰倫",
-                 "楊丞琳", "李榮浩", "林俊傑", "林宥嘉","田馥甄", "蕭敬騰" };
-        int[] no = new int[10];                // no整數陣列存放排名
-
         private void BtnSortno_Click(object sender, EventArgs e)
         {
             string[] no2 = new string[no.Length];
             no.CopyTo(no2, 0);
-            Array.Sort(no, song);
+            Array.Sort(no, song); //排列
             Array.Sort (no2, singer);
             string msg = "排名\t歌手\t歌曲\t"+Environment.NewLine;
 
@@ -70,7 +70,5 @@ namespace p6_25_song
             }
             textBox2.Text = msg;  // 顯示資料內容
         }
-
-\
     }
 }

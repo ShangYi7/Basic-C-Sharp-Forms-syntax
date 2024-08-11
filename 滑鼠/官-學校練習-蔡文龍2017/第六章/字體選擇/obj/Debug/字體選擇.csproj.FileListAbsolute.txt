@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\字體選擇\bin\Debug\字體選擇.exe.config
+C:\Users\User\Desktop\字體選擇\bin\Debug\字體選擇.exe
+C:\Users\User\Desktop\字體選擇\bin\Debug\字體選擇.pdb
+C:\Users\User\Desktop\字體選擇\obj\Debug\字體選擇.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\字體選擇\obj\Debug\字體選擇.Form1.resources
+C:\Users\User\Desktop\字體選擇\obj\Debug\字體選擇.Properties.Resources.resources
+C:\Users\User\Desktop\字體選擇\obj\Debug\字體選擇.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\字體選擇\obj\Debug\字體選擇.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\字體選擇\obj\Debug\字體選擇.exe
+C:\Users\User\Desktop\字體選擇\obj\Debug\字體選擇.pdb

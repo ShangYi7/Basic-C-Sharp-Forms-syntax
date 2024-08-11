@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\找有幾數小於平均值\bin\Debug\找有幾數小於平均值.exe.config
+C:\Users\user\Desktop\找有幾數小於平均值\obj\Debug\找有幾數小於平均值.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\找有幾數小於平均值\obj\Debug\找有幾數小於平均值.Form1.resources
+C:\Users\user\Desktop\找有幾數小於平均值\obj\Debug\找有幾數小於平均值.Properties.Resources.resources
+C:\Users\user\Desktop\找有幾數小於平均值\obj\Debug\找有幾數小於平均值.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\找有幾數小於平均值\bin\Debug\找有幾數小於平均值.exe
+C:\Users\user\Desktop\找有幾數小於平均值\bin\Debug\找有幾數小於平均值.pdb
+C:\Users\user\Desktop\找有幾數小於平均值\obj\Debug\找有幾數小於平均值.exe
+C:\Users\user\Desktop\找有幾數小於平均值\obj\Debug\找有幾數小於平均值.pdb

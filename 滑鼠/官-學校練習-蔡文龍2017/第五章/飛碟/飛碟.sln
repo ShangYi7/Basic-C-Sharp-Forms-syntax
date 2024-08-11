@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "飛碟", "飛碟.csproj", "{C9A03B08-6409-4BE0-9934-F96141C6D2FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A03B08-6409-4BE0-9934-F96141C6D2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A03B08-6409-4BE0-9934-F96141C6D2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A03B08-6409-4BE0-9934-F96141C6D2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A03B08-6409-4BE0-9934-F96141C6D2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

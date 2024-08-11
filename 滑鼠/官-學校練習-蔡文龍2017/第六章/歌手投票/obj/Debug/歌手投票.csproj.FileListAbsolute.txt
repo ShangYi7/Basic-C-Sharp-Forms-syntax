@@ -1,0 +1,29 @@
+C:\Users\user\Desktop\歌手投票\bin\Debug\歌手投票.exe.config
+C:\Users\user\Desktop\歌手投票\bin\Debug\歌手投票.exe
+C:\Users\user\Desktop\歌手投票\bin\Debug\歌手投票.pdb
+C:\Users\user\Desktop\歌手投票\obj\Debug\歌手投票.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\歌手投票\obj\Debug\歌手投票.Form1.resources
+C:\Users\user\Desktop\歌手投票\obj\Debug\歌手投票.Properties.Resources.resources
+C:\Users\user\Desktop\歌手投票\obj\Debug\歌手投票.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\歌手投票\obj\Debug\歌手投票.exe
+C:\Users\user\Desktop\歌手投票\obj\Debug\歌手投票.pdb
+F:\新增資料夾 (3)\歌手投票\bin\Debug\歌手投票.exe.config
+F:\新增資料夾 (3)\歌手投票\bin\Debug\歌手投票.exe
+F:\新增資料夾 (3)\歌手投票\bin\Debug\歌手投票.pdb
+F:\新增資料夾 (3)\歌手投票\obj\Debug\歌手投票.csprojResolveAssemblyReference.cache
+F:\新增資料夾 (3)\歌手投票\obj\Debug\歌手投票.Form1.resources
+F:\新增資料夾 (3)\歌手投票\obj\Debug\歌手投票.Properties.Resources.resources
+F:\新增資料夾 (3)\歌手投票\obj\Debug\歌手投票.csproj.GenerateResource.Cache
+F:\新增資料夾 (3)\歌手投票\obj\Debug\歌手投票.csproj.CoreCompileInputs.cache
+F:\新增資料夾 (3)\歌手投票\obj\Debug\歌手投票.exe
+F:\新增資料夾 (3)\歌手投票\obj\Debug\歌手投票.pdb
+C:\Users\User\Desktop\新增資料夾\歌手投票\bin\Debug\歌手投票.exe.config
+C:\Users\User\Desktop\新增資料夾\歌手投票\bin\Debug\歌手投票.exe
+C:\Users\User\Desktop\新增資料夾\歌手投票\bin\Debug\歌手投票.pdb
+C:\Users\User\Desktop\新增資料夾\歌手投票\obj\Debug\歌手投票.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\新增資料夾\歌手投票\obj\Debug\歌手投票.Form1.resources
+C:\Users\User\Desktop\新增資料夾\歌手投票\obj\Debug\歌手投票.Properties.Resources.resources
+C:\Users\User\Desktop\新增資料夾\歌手投票\obj\Debug\歌手投票.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\新增資料夾\歌手投票\obj\Debug\歌手投票.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\新增資料夾\歌手投票\obj\Debug\歌手投票.exe
+C:\Users\User\Desktop\新增資料夾\歌手投票\obj\Debug\歌手投票.pdb

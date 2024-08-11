@@ -1,0 +1,34 @@
+C:\cs2022\ch11\CalAvg\bin\Debug\net6.0-windows\CalAvg.exe
+C:\cs2022\ch11\CalAvg\bin\Debug\net6.0-windows\CalAvg.deps.json
+C:\cs2022\ch11\CalAvg\bin\Debug\net6.0-windows\CalAvg.runtimeconfig.json
+C:\cs2022\ch11\CalAvg\bin\Debug\net6.0-windows\CalAvg.dll
+C:\cs2022\ch11\CalAvg\bin\Debug\net6.0-windows\CalAvg.pdb
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\CalAvg.csproj.AssemblyReference.cache
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\CalAvg.Form1.resources
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\CalAvg.csproj.GenerateResource.cache
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\CalAvg.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\CalAvg.AssemblyInfoInputs.cache
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\CalAvg.AssemblyInfo.cs
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\CalAvg.csproj.CoreCompileInputs.cache
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\CalAvg.dll
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\refint\CalAvg.dll
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\CalAvg.pdb
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\CalAvg.genruntimeconfig.cache
+C:\cs2022\ch11\CalAvg\obj\Debug\net6.0-windows\ref\CalAvg.dll
+F:\code\Program\C# Forms\p11-14 CalAvg\bin\Debug\net6.0-windows\CalAvg.exe
+F:\code\Program\C# Forms\p11-14 CalAvg\bin\Debug\net6.0-windows\CalAvg.deps.json
+F:\code\Program\C# Forms\p11-14 CalAvg\bin\Debug\net6.0-windows\CalAvg.runtimeconfig.json
+F:\code\Program\C# Forms\p11-14 CalAvg\bin\Debug\net6.0-windows\CalAvg.dll
+F:\code\Program\C# Forms\p11-14 CalAvg\bin\Debug\net6.0-windows\CalAvg.pdb
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\CalAvg.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\CalAvg.Form1.resources
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\CalAvg.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\CalAvg.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\CalAvg.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\CalAvg.AssemblyInfo.cs
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\CalAvg.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\CalAvg.dll
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\refint\CalAvg.dll
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\CalAvg.pdb
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\CalAvg.genruntimeconfig.cache
+F:\code\Program\C# Forms\p11-14 CalAvg\obj\Debug\net6.0-windows\ref\CalAvg.dll

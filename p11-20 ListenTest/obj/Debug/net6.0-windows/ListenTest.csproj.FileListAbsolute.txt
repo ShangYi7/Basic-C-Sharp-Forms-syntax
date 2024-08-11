@@ -1,0 +1,52 @@
+C:\cs2022\ch11\ListenTest\bin\Debug\net6.0-windows\ListenTest.exe
+C:\cs2022\ch11\ListenTest\bin\Debug\net6.0-windows\ListenTest.deps.json
+C:\cs2022\ch11\ListenTest\bin\Debug\net6.0-windows\ListenTest.runtimeconfig.json
+C:\cs2022\ch11\ListenTest\bin\Debug\net6.0-windows\ListenTest.dll
+C:\cs2022\ch11\ListenTest\bin\Debug\net6.0-windows\ListenTest.pdb
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.csproj.AssemblyReference.cache
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.Form1.resources
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.csproj.GenerateResource.cache
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.AssemblyInfoInputs.cache
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.AssemblyInfo.cs
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.csproj.CoreCompileInputs.cache
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.dll
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\refint\ListenTest.dll
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.pdb
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.genruntimeconfig.cache
+C:\cs2022\ch11\ListenTest\obj\Debug\net6.0-windows\ref\ListenTest.dll
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\bin\Debug\net6.0-windows\ListenTest.exe
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\bin\Debug\net6.0-windows\ListenTest.deps.json
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\bin\Debug\net6.0-windows\ListenTest.runtimeconfig.json
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\bin\Debug\net6.0-windows\ListenTest.dll
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\bin\Debug\net6.0-windows\ListenTest.pdb
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.csproj.AssemblyReference.cache
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.Form1.resources
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.csproj.GenerateResource.cache
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.AssemblyInfoInputs.cache
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.AssemblyInfo.cs
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.csproj.CoreCompileInputs.cache
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.dll
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\refint\ListenTest.dll
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.pdb
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\ListenTest.genruntimeconfig.cache
+D:\Do\do_VC#\C#2022(基礎必修課)\範例\ch11\ListenTest\obj\Debug\net6.0-windows\ref\ListenTest.dll
+F:\code\Program\C# Forms\p11-20 ListenTest\bin\Debug\net6.0-windows\ListenTest.exe
+F:\code\Program\C# Forms\p11-20 ListenTest\bin\Debug\net6.0-windows\ListenTest.deps.json
+F:\code\Program\C# Forms\p11-20 ListenTest\bin\Debug\net6.0-windows\ListenTest.runtimeconfig.json
+F:\code\Program\C# Forms\p11-20 ListenTest\bin\Debug\net6.0-windows\ListenTest.dll
+F:\code\Program\C# Forms\p11-20 ListenTest\bin\Debug\net6.0-windows\ListenTest.pdb
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ListenTest.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ListenTest.Form1.resources
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ListenTest.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ListenTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ListenTest.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ListenTest.AssemblyInfo.cs
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ListenTest.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ListenTest.dll
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\refint\ListenTest.dll
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ListenTest.pdb
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ListenTest.genruntimeconfig.cache
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ref\ListenTest.dll
+F:\code\Program\C# Forms\p11-20 ListenTest\obj\Debug\net6.0-windows\ListenTest.Properties.Resources.resources

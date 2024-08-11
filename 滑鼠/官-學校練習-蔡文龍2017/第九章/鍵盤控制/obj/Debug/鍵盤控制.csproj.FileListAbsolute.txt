@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\鍵盤控制\bin\Debug\鍵盤控制.exe.config
+C:\Users\User\Desktop\鍵盤控制\bin\Debug\鍵盤控制.exe
+C:\Users\User\Desktop\鍵盤控制\bin\Debug\鍵盤控制.pdb
+C:\Users\User\Desktop\鍵盤控制\obj\Debug\鍵盤控制.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\鍵盤控制\obj\Debug\鍵盤控制.Form1.resources
+C:\Users\User\Desktop\鍵盤控制\obj\Debug\鍵盤控制.Properties.Resources.resources
+C:\Users\User\Desktop\鍵盤控制\obj\Debug\鍵盤控制.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\鍵盤控制\obj\Debug\鍵盤控制.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\鍵盤控制\obj\Debug\鍵盤控制.exe
+C:\Users\User\Desktop\鍵盤控制\obj\Debug\鍵盤控制.pdb

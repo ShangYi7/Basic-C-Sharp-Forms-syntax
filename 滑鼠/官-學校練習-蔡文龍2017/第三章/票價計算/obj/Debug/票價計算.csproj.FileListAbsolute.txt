@@ -1,0 +1,10 @@
+C:\X\程式設計\C\成品\票價計算\bin\Debug\票價計算.exe.config
+C:\X\程式設計\C\成品\票價計算\bin\Debug\票價計算.exe
+C:\X\程式設計\C\成品\票價計算\bin\Debug\票價計算.pdb
+C:\X\程式設計\C\成品\票價計算\obj\Debug\票價計算.csprojResolveAssemblyReference.cache
+C:\X\程式設計\C\成品\票價計算\obj\Debug\票價計算.Form1.resources
+C:\X\程式設計\C\成品\票價計算\obj\Debug\票價計算.Properties.Resources.resources
+C:\X\程式設計\C\成品\票價計算\obj\Debug\票價計算.csproj.GenerateResource.Cache
+C:\X\程式設計\C\成品\票價計算\obj\Debug\票價計算.csproj.CoreCompileInputs.cache
+C:\X\程式設計\C\成品\票價計算\obj\Debug\票價計算.exe
+C:\X\程式設計\C\成品\票價計算\obj\Debug\票價計算.pdb

@@ -1,0 +1,51 @@
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.exe
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.deps.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.runtimeconfig.json
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.csproj.AssemblyReference.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.Form1.resources
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.csproj.GenerateResource.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.GeneratedMSBuildEditorConfig.editorconfig
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.AssemblyInfoInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.AssemblyInfo.cs
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.csproj.CoreCompileInputs.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\refint\ContextMenuStrip.dll
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.pdb
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.genruntimeconfig.cache
+D:\02基礎必修課\C#基礎必修課\C#2022基礎必修課\ch09\ch09\ContextMenuStrip\obj\Debug\net6.0-windows\ref\ContextMenuStrip.dll
+C:\Users\user\Desktop\ContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.exe
+C:\Users\user\Desktop\ContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.deps.json
+C:\Users\user\Desktop\ContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.runtimeconfig.json
+C:\Users\user\Desktop\ContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.dll
+C:\Users\user\Desktop\ContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.pdb
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.Form1.resources
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.AssemblyInfo.cs
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.dll
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\refint\ContextMenuStrip.dll
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.pdb
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.genruntimeconfig.cache
+C:\Users\user\Desktop\ContextMenuStrip\obj\Debug\net6.0-windows\ref\ContextMenuStrip.dll
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.exe
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.deps.json
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.runtimeconfig.json
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.dll
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\bin\Debug\net6.0-windows\ContextMenuStrip.pdb
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.csproj.AssemblyReference.cache
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.Form1.resources
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.csproj.GenerateResource.cache
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.AssemblyInfoInputs.cache
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.AssemblyInfo.cs
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.csproj.CoreCompileInputs.cache
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.dll
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\refint\ContextMenuStrip.dll
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.pdb
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\ContextMenuStrip.genruntimeconfig.cache
+F:\code\Program\C# Forms\p9-11 PContextMenuStrip\obj\Debug\net6.0-windows\ref\ContextMenuStrip.dll
