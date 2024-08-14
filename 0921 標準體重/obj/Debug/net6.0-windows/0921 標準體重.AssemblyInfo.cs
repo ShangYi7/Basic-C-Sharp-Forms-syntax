@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("0921 標準體重")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f62ee1e869ea4753d0c57de59e88fb8198acddd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcc159df54beb077d03602b983a95dbffa6fc272")]
 [assembly: System.Reflection.AssemblyProductAttribute("0921 標準體重")]
 [assembly: System.Reflection.AssemblyTitleAttribute("0921 標準體重")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
