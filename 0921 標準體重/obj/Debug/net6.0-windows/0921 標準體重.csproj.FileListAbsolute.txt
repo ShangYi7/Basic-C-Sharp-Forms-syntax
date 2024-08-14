@@ -31,3 +31,20 @@ R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\refint\0921 標準
 R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.pdb
 R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.genruntimeconfig.cache
 R:\code\program\C#\0921 標準體重\obj\Debug\net6.0-windows\ref\0921 標準體重.dll
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\_0921_標準體重.Form1.resources
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.csproj.GenerateResource.cache
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.AssemblyInfoInputs.cache
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.AssemblyInfo.cs
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.csproj.CoreCompileInputs.cache
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.sourcelink.json
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.dll
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\refint\0921 標準體重.dll
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.pdb
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.exe
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.deps.json
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.runtimeconfig.json
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.dll
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\bin\Debug\net6.0-windows\0921 標準體重.pdb
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\0921 標準體重.genruntimeconfig.cache
+F:\code\Program\Basic-C-Sharp-Forms-syntax\0921 標準體重\obj\Debug\net6.0-windows\ref\0921 標準體重.dll

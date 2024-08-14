@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jrpO7O6BOR0oyBldjYuvM4vzU1lL6cFQsDBTtd2vYgN+NA3dNbxE2yF8q1G72i0Jm+dvWLKomzW3rkckWs006Q==",
+  "dgSpecHash": "lYgsARV6BOk=",
   "success": true,
-  "projectFilePath": "C:\\cs2022\\ch01\\p12-28 Form\\p12-28 Form.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\code\\Program\\Basic-C-Sharp-Forms-syntax\\p12-28 Form\\p12-28 Form.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShangYi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ShangYi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ShangYi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ShangYi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }

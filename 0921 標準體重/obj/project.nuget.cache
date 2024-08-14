@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4s0pCsR+x3gQFzTaD72kYBVvUSrB/kzLNNh3fI2XbUveDSZ2QortrMo6R6BOYZFM/T5Y8iGakBz83YwZ09HaTg==",
+  "dgSpecHash": "BSJtjmpN598=",
   "success": true,
-  "projectFilePath": "R:\\code\\program\\C#\\0921 標準體重\\0921 標準體重.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\code\\Program\\Basic-C-Sharp-Forms-syntax\\0921 標準體重\\0921 標準體重.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShangYi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ShangYi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ShangYi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ShangYi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }

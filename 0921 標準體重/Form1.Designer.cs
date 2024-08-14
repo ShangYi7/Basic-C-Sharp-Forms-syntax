@@ -44,7 +44,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(124, 95);
+            button1.Location = new Point(78, 100);
             button1.Name = "button1";
             button1.Size = new Size(90, 29);
             button1.TabIndex = 2;
@@ -83,7 +83,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(339, 249);
+            ClientSize = new Size(259, 201);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
